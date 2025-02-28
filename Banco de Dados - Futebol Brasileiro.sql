@@ -36,12 +36,16 @@ values
 ("Vitória", "Vermelho e Preto", "BA", 1899, "Barradão", 0, 0, 0, 0),
 ("Sport", "Vermelho, Amarelo e Preto", "PE", 1905, "Ilha do Retiro", 1, 1, 0, 0),
 ("Náutico", "Vermelho e Branco", "PE", 1901, "Estádio dos Aflitos", 0, 0, 0, 0),
+("Santa Cruz", "Vermelho, Branco e Preto", "PE", 1914, "Estádio Arruda", 0, 0, 0, 0);
 ("Fortaleza", "Vermelho, Azul e Branco", "CE", 1918, "Arena Castelão", 0, 0, 0, 0),
 ("Ceará", "Preto e Branco", "CE", 1914, "Arena Castelão", 0, 0, 0, 0),
 ("Athlético Paranaense", "Vermelho, e Preto", "PR", 1924, "Ligga Arena", 1, 1, 0, 0),
 ("Coritiba", "Verde e Branco", "PR", 1909, "Couto Pereira", 1, 0, 0, 0),
 ("Criciúma", "Amarelo, Branco e Preto", "SC", 1947, "Heriberto Hulse", 0, 1, 0, 0),
 ("Chapecoense", "Verde e Branco", "SC", 1973, "Arena Condá", 0, 0, 0, 0),
-("Avaí", "Azul e Branco", "SC", 1923, "Estádio da Ressacada", 0, 0, 0, 0);
+("Avaí", "Azul e Branco", "SC", 1923, "Estádio da Ressacada", 0, 0, 0, 0),
+("Goiás", "Verde e Branco", "GO", 1943, "Serrinha", 0, 0, 0, 0),
+("Atlético Goianiense", "Vermelho e Preto", "GO", 1937, "Estádio Antônio Accioly", 0, 0, 0, 0),
+("Cuiabá", "Amarelo e Verde", "MT", 2001, "Arena Pantanal", 0, 0, 0, 0);
 
 select * from times;
